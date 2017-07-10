@@ -16,3 +16,9 @@ body{
   float: left;
   margin-right: 30px;
 }
+
+.oyakodonn:after{
+  content: "";
+  clear: both;
+  display: block;
+}
