@@ -3,3 +3,12 @@
 body{
   background-color:#7fffd4;
 }
+
+#main{
+  width: 798px;
+  margin: 40px auto;
+  padding:40px 80px;
+  border: gree 1px solid;
+  background-color: white;
+}
+
