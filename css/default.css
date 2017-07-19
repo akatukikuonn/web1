@@ -2,6 +2,7 @@
 
 body{
   background-image:ur1(../img/taitoru.png);
+  background-repeat: no-repeat, no-repeat;
   background-size: 100px 100px,contain;
   background-color:#7fffd4;
 }
