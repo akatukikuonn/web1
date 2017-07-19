@@ -6,6 +6,9 @@ body{
   background-size: 1500px 1300px,contain;
   background-color:#7fffd4;
 }
+.PNG{
+  float: left;
+}
 
 #main{
   width: 798px;
