@@ -1,4 +1,9 @@
 @charset "utf-8";
+body{
+  background-image:url(../img/th0WWR90F5.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 700px 700px,contain;
+}
 
 body{
   background-image:url(../img/taitoru.png);
