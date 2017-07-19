@@ -2,6 +2,8 @@
 
 body{
   background-color:#7fffd4;
+  background-image:ur1(../img);
+  background-size: 100px 100px,contain;
 }
 
 #main{
